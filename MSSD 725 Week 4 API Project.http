@@ -1,0 +1,6 @@
+@MSSD_725_Week_4_Project_HostAddress = http://localhost:5127
+
+GET {{MSSD_725_Week_4_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

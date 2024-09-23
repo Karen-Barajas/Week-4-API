@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MSSD 725 Week 4 API Project.props" />
+</Project>
